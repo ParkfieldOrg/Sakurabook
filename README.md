@@ -21,7 +21,7 @@ Sakurabook is a plugin for pay-as-you-go reservation service which can be used w
 
 This guide is for the Shopify merchants who are the main users of the app. It'll be useful for you when you need help with the installation and setting up of the Sakurabook app.
 
-📌 Start [here](./en/getting-started.md)!
+➡ Start [here](./en/getting-started.md)!
 
 Guide is available in [🇬🇧 English](#welcome-to-sakurabook-project) and [🇯🇵 やまと](#ようこそsakurabook-プロジェクトへ).
 
@@ -45,13 +45,13 @@ Sakurabook は、Shopify のエコシステム内で利用できる従量課金�
 
 - **柔軟な予約の長さ**。分単位での正確な予約を可能にします。
 - **日本語でスペースやサービスを予約できる**。スペースやサービスの予約プラグインは、日本語で利用可能です。
-- Zoom を使った顧客とのオンラインミーティング\*\*。Covid-19 の後にオンラインであなたのビジネスを後押ししてください。
+- **Zoom を使った顧客とのオンラインミーティング**。Covid-19 の後にオンラインであなたのビジネスを後押ししてください。
 - **Google カレンダーで予約状況を確認**: 接続された Google カレンダーで予約を確認することができます。
 
 このガイドは、アプリのメインユーザーである Shopify マーチャントのためのものです。さくらブックアプリのインストールや設定にお困りの際にお役に立つと思います。
 
 このガイドは、アプリのメインユーザーである Shopify 加盟店様向けです。さくらブックアプリのインストールや設定に困ったときに役立つと思います。
 
-📌 Start [ここから](./ja/getting-started.md)!
+➡ Start [ここから](./ja/getting-started.md)!
 
-ガイドは[🇬🇧🇬 英語](#welcome-to-sakurabook-project)と[🇯🇵 やまと](#ようこそsakurabook-プロジェクトへ) でご用意しています。
+ガイドは[🇬🇧 英語](#welcome-to-sakurabook-project)と[🇯🇵 やまと](#ようこそsakurabook-プロジェクトへ) でご用意しています。

@@ -41,4 +41,4 @@ Last but not least, Sakurabook is a paid Shopify app and we want to be as transp
 
 ---
 
-→ What's next? Start with the [Import Product]() guide.
+➡ What's next? Start with the [Import Product]() guide.

@@ -13,11 +13,11 @@ The app has two major parts:
 
 - **Sakurabook Admin** - This is an embedded Shopify app in the admin console of your shop, e.g. https://your-store-name.myshopify.com/admin. This part is a merchant-facing user interface.
 
-![Alt text](../img/Screenshot%202022-08-28%20at%2010.51.06.png?raw=true "Sakurabook Admin")
+  ![Alt text](../img/Screenshot%202022-08-28%20at%2010.51.06.png?raw=true "Sakurabook Admin")
 
 - **Sakurabook Booking Wizard** - On the other hand, this is the customer-facing app block that can be added directly to your store via the Shopify Theme customization. It's then accessible on your store, e.g. https://your-store-name.myshopify.com. Once you add it, the booking wizard lets your customers create reservations.
 
-![Alt text](../img/Screenshot%202022-08-28%20at%2010.54.43.png?raw=true "Sakurabook Booking Wizard")
+  ![Alt text](../img/Screenshot%202022-08-28%20at%2010.54.43.png?raw=true "Sakurabook Booking Wizard")
 
 Once you've got a good understanding of Shopify and how the apps work, we can have a look at the two main use cases that Sakurabook offers:
 
@@ -30,4 +30,4 @@ Now, I believe you already know which use case is suitable for your online store
 
 ---
 
-→ What's next? Move to [Setting up the app in Shopify](./setting-up-the-app-in-shopify.md).
+➡ What's next? Move to [Setting up the app in Shopify](./setting-up-the-app-in-shopify.md).
