@@ -50,7 +50,7 @@ Fill in as many locations as you want. These locations are meant to be the place
 
 ## Videoconferencing
 
-Another option for your staff if they are not available in person. You can use Zoom videoconferencing for your online appointments. Mark online availability using the `Zoom` checkbox. A tiny detail, you need to [Connect Zoom]() to make this functionality work.
+Another option for your staff if they are not available in person. You can use Zoom videoconferencing for your online appointments. Mark online availability using the `Zoom` checkbox. A tiny detail, you need to [Connect Zoom](./connect-zoom.md) to make this functionality work.
 
 ![Alt text](../img/Screenshot%202022-08-30%20at%2013.28.16.png?raw=true "Sakurabook Videoconferencing")
 
@@ -82,4 +82,4 @@ Here you can see four important fields to be filled.
 
 ---
 
-➡ What's next? Start with the [Staff (De)Activation](./staff-de-activation.md) guide.
+➡ What's next? Start with the [Staff De/Activation](./staff-de-activation.md) guide.

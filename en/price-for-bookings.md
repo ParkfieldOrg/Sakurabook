@@ -211,4 +211,4 @@ Let's have a look at a couple of examples. We will use undefined currency in the
 
 ---
 
-➡ What's next? Go back to [Usage Guides](usage-guides.md) for more.
+➡ What's next? Go to the [Settings](./settings.md) guide.

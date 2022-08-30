@@ -77,11 +77,11 @@ The next step is to set up everything in Sakurabook Admin to be able to offer yo
 
    ![Alt text](../img/Screenshot%202022-08-29%20at%2010.40.48.png?raw=true "Sakurabook Add Member")
 
-7. Please check out the detailed [Create Staff]() guide, click **Save** in the top right corner. Congratulations. You have created your first staff. Then click on **Dashboard** in the top navigation menu.
+7. Please check out the detailed [Create Staff](./create-staff.md) guide, click **Save** in the top right corner. Congratulations. You have created your first staff. Then click on **Dashboard** in the top navigation menu.
 
    ![Alt text](../img/Screenshot%202022-08-28%20at%2010.56.35.png?raw=true "Sakurabook Edit Staff")
 
-8. Welcome to Sakurabook Dashboard! This is where you can see and manage all your bookings. Check the [Manage Bookings]() guide for more details.
+8. Welcome to Sakurabook Dashboard! This is where you can see and manage all your bookings. Check the [Manage Bookings](./manage-bookings.md) guide for more details.
 
    ![Alt text](../img/Screenshot%202022-08-28%20at%2010.51.06.png?raw=true "Sakurabook Dashboard")
 

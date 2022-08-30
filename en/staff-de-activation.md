@@ -22,4 +22,4 @@ This is a quick guide to show you how to `Deactivate` and `Activate` back your s
 
 ---
 
-➡ What's next? Start with the [Manage Bookings]() guide.
+➡ What's next? Start with the [Manage Bookings](./manage-bookings.md) guide.

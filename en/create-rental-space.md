@@ -68,4 +68,4 @@ Here you can see four important fields to be filled.
 
 ---
 
-➡ What's next? Start with the [Rental Space De/Activation](rental-space-de-activation.md) guide.
+➡ What's next? Start with the [Rental Space De/Activation](./rental-space-de-activation.md) guide.
