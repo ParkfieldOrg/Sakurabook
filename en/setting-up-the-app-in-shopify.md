@@ -63,7 +63,7 @@ The next step is to set up everything in Sakurabook Admin to be able to offer yo
 
    📌 Yes, it cannot be change, but if you really need to change the use case, please get in touch with the support and we'll make a way to fix it for you.
 
-   ![Alt text](../img/?raw=true "Sakurabook Use Case Selection ")
+   ![Alt text](../img/Screenshot%202022-08-29%20at%2010.36.48.png?raw=true "Sakurabook Use Case Selection ")
 
 5. New modal window appeared. You can select products to be imported into the Sakurabook app. Select the products you want to see in the app by clicking the checkboxes on the left side. Once you are done, click the `Add` button.
 
@@ -71,21 +71,21 @@ The next step is to set up everything in Sakurabook Admin to be able to offer yo
 
    📌 Have you selected **Rental space reservation**? Skip to step 8.
 
-   ![Alt text](../img/?raw=true "Sakurabook Import Products")
+   ![Alt text](../img/Screenshot%202022-08-29%20at%2010.38.48.png?raw=true "Sakurabook Import Products")
 
-6. Since you selected **Service reservation**, you have now the option to create your first staff member. Click on the `Add Member` button and find yourself on the Staff creation screen.
+6. Since you selected **Service reservation**, you have now the option to create your first staff member. Click on the `Add staff` button and find yourself on the Staff creation screen.
 
-   ![Alt text](../img/?raw=true "Sakurabook Add Member")
+   ![Alt text](../img/Screenshot%202022-08-29%20at%2010.40.48.png?raw=true "Sakurabook Add Member")
 
 7. Please check out the detailed [Create Staff]() guide, click **Save** in the top right corner. Congratulations. You have created your first staff. Then click on **Dashboard** in the top navigation menu.
 
    ![Alt text](../img/Screenshot%202022-08-28%20at%2010.56.35.png?raw=true "Sakurabook Edit Staff")
 
-8. Welcome to Sakurabook Dashboard! This is where you can see and manage all your bookings. Check the [Manage Dashboard]() guide for more details.
+8. Welcome to Sakurabook Dashboard! This is where you can see and manage all your bookings. Check the [Manage Bookings]() guide for more details.
 
    ![Alt text](../img/Screenshot%202022-08-28%20at%2010.51.06.png?raw=true "Sakurabook Dashboard")
 
-9. Now we refer to [Usage Guides](usage-guides.md) where you can find details about managing bookings on the dashboard, setting up and changing options of your staff, rental spaces, and services, and changing the location of your business and all the other staff.
+9. Now we refer to [Usage Guides](usage-guides.md) where you can find details about setting up prices for your products, managing bookings on the dashboard, setting up and changing options of your staff, rental spaces, and services, and changing the location of your business and all the other staff.
 
 10. The very last step on our Sakurabook Admin Setup guide is a selection of your Billing plan. Navigate to Settings (top menu) and click on the `Manage plan` button under the Billing section. You've got several options, see details about [Billing plans](billing-plans.md).
 
