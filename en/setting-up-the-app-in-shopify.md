@@ -26,7 +26,7 @@ This section will help you with the installation of the Sakurabook app into your
 
    ![Alt text](../img/?raw=true "Welcome to Sakurabook app!")
 
-💡 **Troubleshooting**: If anything goes wrong, get in touch with our [Support](https://sakurabook.app/pages/support), please. We are as available as possible and really keen to help.
+💡 **Troubleshooting**: If anything goes wrong, get in touch with our [Support](https://app.sakurabook.app/pages/support), please. We are as available as possible and really keen to help.
 
 ## Sakurabook Admin Setup
 

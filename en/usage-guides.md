@@ -4,7 +4,7 @@ In this text, you will find everything you need to use the Sakurabook app.
 
 📌 Make sure you finished the [Setting Up the App in Shopify](setting-up-the-app-in-shopify.md) guide and got everything set. Without installing and setting up the app, this guide won't be really helpful for you.
 
-💡 **Troubleshooting**: If anything goes wrong, get in touch with our [Support](https://sakurabook.app/pages/support), please. We are as available as possible and really keen to help.
+💡 **Troubleshooting**: If anything goes wrong, get in touch with our [Support](app.https://sakurabook.app/pages/support), please. We are as available as possible and really keen to help.
 
 ## Contents
 
@@ -34,7 +34,7 @@ Ok, we went through the Dashboard, Spaces, Services, and Staff sections of the m
 
 Moreover, settings also help you manage your Google Calendar and Zoom integrations. Zoom is particularly important when you offer online services with the **Service reservation** use case. Please follow the [Connect Google Calendar](./connect-google-calendar.md) and [Connect Zoom](./connect-zoom.md) guides to successfully connect to these platforms.
 
-💡 **Troubleshooting**: Integrations are always tricky. We rely on a 3rd party in this matter and we cannot always guarantee that everything works as expected. Nevertheless, it should work correctly but if you run into an issue during connections, please get to [Support](https://sakurabook.app/pages/support) and we'll take care of it with priority.
+💡 **Troubleshooting**: Integrations are always tricky. We rely on a 3rd party in this matter and we cannot always guarantee that everything works as expected. Nevertheless, it should work correctly but if you run into an issue during connections, please get to [Support](https://app.sakurabook.app/pages/support) and we'll take care of it with priority.
 
 ## Booking Wizard
 
