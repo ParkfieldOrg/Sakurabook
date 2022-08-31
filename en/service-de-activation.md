@@ -4,6 +4,11 @@ This is a quick guide to show you how to `Deactivate` and `Activate` back your s
 
 📌 Inactive services are not available for new bookings with your staff.
 
+## Contents
+
+- [Deactivation](#deactivation)
+- [Activation](#activation)
+
 ## Deactivation
 
 1. Go to the Services section where you can find all your created services. Select the `Active` section in the list.

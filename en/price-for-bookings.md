@@ -22,7 +22,11 @@ We calculate the final price using these price variants. There are no additional
 
 Let's have a look at a couple of examples. We will use undefined currency in the examples.
 
-# Examples
+## Contents
+
+- [Examples](#examples)
+
+## Examples
 
 1. Booking is for 45 minutes on a working day.
 

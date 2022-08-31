@@ -6,6 +6,13 @@ After you import the new Service, go to the service detail page. In this guide, 
 
 📌 All the required fields are labeled with `*`.
 
+## Contents
+
+- [Calendar](#calendar)
+- [Assigned add-ons](#assigned-add-ons)
+- [Assigned staff](#assigned-staff)
+- [Location](#location)
+
 ## Calendar
 
 This is a view-only calendar overview. It shows only bookings related to one particular Service to which this detail is related. Currently, you cannot manage bookings from here. You need to go to Dashboard. It offers a day/week view.

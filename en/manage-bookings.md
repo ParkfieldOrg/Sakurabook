@@ -6,6 +6,12 @@ Sakurabook Dashboard allows you to create, edit and delete all your bookings. It
 
 📌 This dashboard will show all the bookings within your store. It will show not only the bookings you create manually, there are going to be all bookings created by the administrator and by the customers directly via your Shopify store.
 
+## Contents
+
+- [Create Booking](#create-booking)
+- [Edit or Delete Booking](#edit-or-delete-booking)
+- [Manually Created Bookings](#manually-created-bookings)
+
 ## Create Booking
 
 1. Click on the calendar where you want to create a booking.

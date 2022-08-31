@@ -6,6 +6,16 @@ After you import the new Rental Space, go to the rental space detail page. In th
 
 📌 All the required fields are labeled with `*`.
 
+## Contents
+
+- [Calendar](#calendar)
+- [Assigned add-ons](#assigned-add-ons)
+- [Business hours](#business-hours)
+- [Reception hours](#reception-hours)
+- [Prepare](#prepare)
+- [Location](#location)
+- [Additional settings](#additional-settings)
+
 ## Calendar
 
 This is a view-only calendar overview. It shows only bookings related to one particular Rental Space to which this detail is related. Currently, you cannot manage bookings from here. You need to go to Dashboard. It offers a day/week view.

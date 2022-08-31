@@ -4,6 +4,11 @@ This is a quick guide to show you how to `Deactivate` and `Activate` back your r
 
 📌 Inactive spaces are not available for new bookings, however, their historical bookings are not canceled automatically
 
+## Contents
+
+- [Deactivation](#deactivation)
+- [Activation](#activation)
+
 ## Deactivation
 
 1. Go to the Rental Spaces section where you can find all your created rental spaces. Select the `Active` section in the list.

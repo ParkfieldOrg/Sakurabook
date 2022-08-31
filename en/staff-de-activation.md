@@ -4,6 +4,11 @@ This is a quick guide to show you how to `Deactivate` and `Activate` back your s
 
 📌 Inactive staff are not available for new bookings, however, their historical bookings are not canceled automatically
 
+## Contents
+
+- [Deactivation](#deactivation)
+- [Activation](#activation)
+
 ## Deactivation
 
 1. Go to the Staff section where you can find all your created staff. Select the `Active` section in the list.

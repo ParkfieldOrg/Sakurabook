@@ -6,6 +6,16 @@ After you click on the `Add staff` button in the Staff section, you'll find your
 
 📌 All the required fields are labeled with `*`.
 
+## Contents
+
+- [Basic information](#basic-information)
+- [Business hours](#business-hours)
+- [Prepare](#prepare)
+- [Staff location](#staff-location)
+- [Videoconferencing](#videoconferencing)
+- [Appointment length](#appointment-length)
+- [Additional settings](#additional-settings)
+
 ## Basic information
 
 Fill in all the basic details about your staff.

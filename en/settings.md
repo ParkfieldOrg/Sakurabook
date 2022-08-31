@@ -4,6 +4,12 @@ The last item in the navigation menu is related to Sakurabook Settings. There're
 
 ![Alt text](../img/Screenshot%202022-08-31%20at%2011.22.57.png?raw=true "Sakurabook Settings")
 
+## Contents
+
+- [Date and Time](#date-and-time)
+- [Notifications](#notifications)
+- [Integrations](#integrations)
+
 ## Date and Time
 
 It is possible to change the `Timezone` of your business here. This is the timezone where your business operates. All the business hours, reception hours, and calendars across the app using this particular timezone.
