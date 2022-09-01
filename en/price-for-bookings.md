@@ -2,7 +2,7 @@
 
 Let's have a look into some specific cases for bookings. As you already know, all imported products, Rental spaces, Services, or AddOns, have several price variants that were created by the Sakurabook app immediately after import and their prices were amended by you, merchants.
 
-📌 Have you forgotten to amend the `Price` of your Product Variants? Go to https://your-store-name.myshopify.com/admin/products and do it now.
+📌 Have you forgotten to amend the `Price` of your Product Variants? Go to https://your-store-name.myshopify.com/admin/products and do it now. Check Shopify guide on [Editing variants](https://help.shopify.com/en/manual/products/variants/edit-variants).
 
 There are overall nine variants for each product you are selling with Sakurabook. The names of the variants are self-explanatory.
 
@@ -16,7 +16,7 @@ There are overall nine variants for each product you are selling with Sakurabook
 - WORKING DAY - Price per month
 - WORKING DAY - Price per year
 
-We calculate the final price using these price variants. There are no additional fees or extras for your customers.
+We calculate the final price using these price variants. It applies to all products, Rental spaces, Services, and AddOns. There are no additional fees or extras for your customers.
 
 📌 Sakurabook counts week as 7 days, month as 30 days, and year as 12 months (360 days).
 

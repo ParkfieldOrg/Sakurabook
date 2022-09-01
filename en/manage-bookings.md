@@ -44,7 +44,7 @@ If you want to change booking time or delete a particular booking, go back to th
 
 After you create a booking on your dashboard, your customer will receive an invoice to be paid from Shopify. After the payment proceeds, Sakurabook will send the customer a **confirmation email** about the booking and the reservation is considered as paid.
 
-**TODO:** Screenshot of notification email should be updated one we have the new design.
+**TODO:** Screenshot of the notification email should be updated once we have the new design.
 
 ![Alt text](../img/Screenshot%202022-08-31%20at%201.23.32.png?raw=true "Sakurabook Booking Created")
 

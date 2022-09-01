@@ -45,6 +45,8 @@ Use the `Nonstop` if the staff is available all the time without any breaks. Use
 
 Do your staff need some time before/after an appointment? Fill in this section. If not, feel free to fill in `0`.
 
+Moreover, if you fill in both before and after, keep in mind that it's gonna be reflected as a sum when between two bookings, e.g. when set before and after to 15 minutes, it'll always create a 30 minutes window between two bookings.
+
 ![Alt text](../img/Screenshot%202022-08-30%20at%2013.28.01.png?raw=true "Sakurabook Staff Prepare")
 
 | Field             | Required | Description                                                                   |
@@ -61,6 +63,8 @@ Fill in as many locations as you want. These locations are meant to be the place
 ## Videoconferencing
 
 Another option for your staff if they are not available in person. You can use Zoom videoconferencing for your online appointments. Mark online availability using the `Zoom` checkbox. A tiny detail, you need to [Connect Zoom](./connect-zoom.md) to make this functionality work.
+
+Moreover, you can have both online and offline locations.
 
 ![Alt text](../img/Screenshot%202022-08-30%20at%2013.28.16.png?raw=true "Sakurabook Videoconferencing")
 

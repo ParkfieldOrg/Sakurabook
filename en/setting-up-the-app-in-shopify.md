@@ -10,7 +10,7 @@ This section will help you with the installation of the Sakurabook app into your
 
 ## Installation
 
-📌 This will be updated once the app is successfully reviewed and published in the Shopify app store.
+📌 **TODO** This will be updated once the app is successfully reviewed and published in the Shopify app store.
 
 1. Go to [Sakurabook page](https://apps.shopify.com/google?surface_detail=recommended-for-you&surface_inter_position=2&surface_intra_position=5&surface_type=home) in the Shopify app store.
 
@@ -34,7 +34,7 @@ Once you successfully installed the app into your Shopify store, you should be a
 
 The next step is to set up everything in Sakurabook Admin to be able to offer your products for reservation.
 
-📌 There is a prerequisite of having your products already created in the Shopify Admin Products section (https://your-store-name.myshopify.com/admin/products). Please make sure you do this before you start with this guide.
+📌 There is a prerequisite of having your products already created in the Shopify Admin Products section (https://your-store-name.myshopify.com/admin/products). Please make sure you do this before you start with this guide. See also Shopify's guide [Adding and updating products](https://help.shopify.com/en/manual/products/add-update-products).
 
 1. Go to Shopify Admin Products (/admin/products) section and add appropriate tags to products you want to offer within the Sakurabook reservation system. See the table below.
 
@@ -67,15 +67,17 @@ The next step is to set up everything in Sakurabook Admin to be able to offer yo
 
 5. New modal window appeared. You can select products to be imported into the Sakurabook app. Select the products you want to see in the app by clicking the checkboxes on the left side. Once you are done, click the `Add` button.
 
+   ❗️ If you do not see any products to be added, go back to step 1. which describes how to add the correct tags to products.
+
    📌 If you select **Rental space reservation** use case, you should only see products with the `Rental` tag in the import selector. If you select **Service reservation**, you will see only products with the `Service` tag. AddOns can be imported later.
 
    📌 Have you selected **Rental space reservation**? Skip to step 8.
 
    ![Alt text](../img/Screenshot%202022-08-29%20at%2010.38.48.png?raw=true "Sakurabook Import Products")
 
-6. Since you selected **Service reservation**, you have now the option to create your first staff member. Click on the `Add staff` button and find yourself on the Staff creation screen.
+6. Since you selected **Service reservation**, you have now the option to create your first staff member. Click on the `Add staff` button and find yourself on the Staff creation screen. You can also `Skip` this step. Then jump straight to the step 8.
 
-   ![Alt text](../img/Screenshot%202022-08-29%20at%2010.40.48.png?raw=true "Sakurabook Add Member")
+   ![Alt text](../img/Screenshot%202022-08-29%20at%2010.40.48.png?raw=true "Sakurabook Add Staff")
 
 7. Please check out the detailed [Create Staff](./create-staff.md) guide, click **Save** in the top right corner. Congratulations. You have created your first staff. Then click on **Dashboard** in the top navigation menu.
 
@@ -99,13 +101,13 @@ Sakurabook app is installed in your Shopify store and you've successfully finish
 
 📌 There is one prerequisite to be able to add Booking Wizard into your storefront. You need to have an Online Store sales channel installed in your store.
 
+📌 We currently support following themes: [Dawn](https://themes.shopify.com/themes/dawn/styles/default), [Sense](https://themes.shopify.com/themes/sense/styles/default), [Colorblock](https://themes.shopify.com/themes/colorblock/styles/default), [Refresh](https://themes.shopify.com/themes/refresh/styles/default), [Studio](https://themes.shopify.com/themes/studio/styles/default) and [Craft](https://themes.shopify.com/themes/craft/styles/default). The Booking Wizard should also work will plenty of others but we do not list them all here because not every Theme was tested. Some of the styles are inherited from the Theme itself, e.g. main color or font.
+
+📌 Sakurabook team plans to bring you a brand new theme specifically for this app. It'll be tailor-made to both use cases.
+
+💡 **Troubleshooting**: If anything goes wrong with the setting up of your Theme, get in touch with our [Support](app.https://sakurabook.app/pages/support), please.
+
 1. Go to **Online Store** in the left main menu under the **Sales channels** section and click on **Theme**. It depends on what theme you have selected, but you should see the **Current theme** section. Click on the `Customize` button.
-
-   📌 We currently support following themes: [Dawn](https://themes.shopify.com/themes/dawn/styles/default), [Sense](https://themes.shopify.com/themes/sense/styles/default), [Colorblock](https://themes.shopify.com/themes/colorblock/styles/default), [Refresh](https://themes.shopify.com/themes/refresh/styles/default), [Studio](https://themes.shopify.com/themes/studio/styles/default) and [Craft](https://themes.shopify.com/themes/craft/styles/default). The Booking Wizard should also work will plenty of others but we do not list them all here because not every Theme was tested. Some of the styles are inherited from the Theme itself, e.g. main color or font.
-
-   📌 Sakurabook team plans to bring you a brand new theme specifically for this app. It'll be tailor-made to both use cases.
-
-   💡 **Troubleshooting**: If anything goes wrong with the setting up of your Theme, get in touch with our [Support](app.https://sakurabook.app/pages/support), please.
 
    ![Alt text](../img/Screenshot%202022-08-28%20at%2010.36.48.png?raw=true "Shopify Theme Customize")
 

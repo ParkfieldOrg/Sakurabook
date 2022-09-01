@@ -5,7 +5,7 @@ Sakurabook is a plugin for pay-as-you-go reservation service which can be used w
 ## Contents
 
 - [Components](#components)
-- [Use Cases](#use-cases)
+- [Business cases](#business-cases)
 
 ## Components
 
@@ -21,10 +21,10 @@ The app has two major parts:
 
 Once you've got a good understanding of Shopify and how the apps work, we can have a look at the two main use cases that Sakurabook offers:
 
-## Use Cases
+## Business cases
 
 - **Rental space reservation** - This is suitable for any kind of rental, e.g. hotels, short-term lettings, or other types of space reservations. Select this use case when customers do not need to choose a staff of yours.
-- **Service reservation** - This use case is the right choice if there are specific staff/people to book, e.g. yoga studios, therapy, and hairdressing salons.
+- **Service reservation** - Choose the service type if there are specific staff/people to book. Suitable for yoga studios, therapists, hairdressing saloons, and other service providers.
 
 Now, I believe you already know which use case is suitable for your online store. Let's have a look at how to set up the Sakurabook app in Shopify.
 

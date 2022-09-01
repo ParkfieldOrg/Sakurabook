@@ -32,7 +32,7 @@ Another element on this page is the Assigned Add-ons section. By clicking on the
 
 Fill in the hours when your rental space is available. These are the times that are offered to your customers. Bookings cannot be created outside of business hours.
 
-Use the `Nonstop` if the staff is available all the time without any breaks. Use `Custom` to create time windows. Use the bin button (🗑) to delete a specific slot. Use the plus button (➕) to add another time slot within the specific day. Use the copy button to copy a specific day time slot into another day/s.
+Use the `Nonstop` if the space is available all the time without any breaks. Use `Custom` to create time windows. Use the bin button (🗑) to delete a specific slot. Use the plus button (➕) to add another time slot within the specific day. Use the copy button to copy a specific day time slot into another day/s.
 
 ![Alt text](../img/Screenshot%202022-08-30%20at%2014.59.39.png?raw=true "Sakurabook Rental Space Business hours")
 
@@ -47,6 +47,8 @@ Use the bin button (🗑) to delete a specific slot. Use the plus button (➕) t
 ## Prepare
 
 Do you need some time before/after the booking? The preparation time might be for example used for cleaning. Fill in this section. If not, feel free to fill in `0`.
+
+Moreover, if you fill in both before and after, keep in mind that it's gonna be reflected as a sum when between two bookings, e.g. when set before and after to 15 minutes, it'll always create a 30 minutes window between two bookings.
 
 ![Alt text](../img/Screenshot%202022-08-30%20at%2014.59.56.png?raw=true "Sakurabook Rental Space Prepare")
 
@@ -69,8 +71,8 @@ Here you can see four important fields to be filled.
 
 | Field                         | Required | Description                                                                                     |
 | ----------------------------- | -------- | ----------------------------------------------------------------------------------------------- |
-| `Minimum time to book`        | x        | Fill in the minimum time to book in Minutes/Hours/Days.                                         |
-| `Maximum time to book`        | x        | Fill in the maximum time to book in Minutes/Hours/Days.                                         |
+| `Minimum time to book`        | x        | Fill in the minimum length of the booking in Minutes/Hours/Days.                                |
+| `Maximum time to book`        | x        | Fill in the maximum length of the booking in Minutes/Hours/Days.                                |
 | `Booking request approval`    | x        | Currently supporting only automatic approvals.                                                  |
 | `Reservation deadline`        | x        | What is the latest time before the reservation date when you still can create a reservation?    |
 | `Reservation slots open`      | x        | How long in advance before the reservation date you can create a reservation?                   |

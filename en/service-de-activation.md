@@ -15,6 +15,8 @@ This is a quick guide to show you how to `Deactivate` and `Activate` back your s
 
 2. Select the services you want to deactivate and click the `Deactivate` button which is right next to the select all button.
 
+   📌 Keep in mind that if you deactivate the service in Sakurabook, it won't disappear from your store, you need to change the Product itself inside Shopify Admin as well. Make the product a draft and it'll disappear from your store.
+
    ![Alt text](../img/Screenshot%202022-08-30%20at%2014.29.03.png?raw=true "Sakurabook Service Deactivation")
 
 ## Activation
