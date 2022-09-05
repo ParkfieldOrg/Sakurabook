@@ -2,6 +2,8 @@
 
 Google Calendar connection serves for the creation of Google calendar events related to bookings and sending invitations to booking participants, e.g. customers and staff. Moreover, when using Zoom videoconferencing, the Zoom link is also sent to the participants in the Google calendar event.
 
+📌 We have also prepared two videos guides for you, feel free to watch them on our Youtube [Sakurabook channel](https://www.youtube.com/channel/UCzs8kviSrLufN3ipRIeGc3Q/videos).
+
 Here is a quick guide on how to connect to Google Calendar from the Sakurabook app.
 
 1. Start at the Settings section inside the Sakurabook app. Click on the `Connect` button next to the Google Calendar block inside the Integrations subsection.

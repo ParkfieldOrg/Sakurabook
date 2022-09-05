@@ -11,6 +11,7 @@ Sakurabook Dashboard allows you to create, edit and delete all your bookings. It
 - [Create Booking](#create-booking)
 - [Edit or Delete Booking](#edit-or-delete-booking)
 - [Manually Created Bookings](#manually-created-bookings)
+- [Cancellation Handling](#cancellation-handling)
 
 ## Create Booking
 
@@ -47,6 +48,12 @@ After you create a booking on your dashboard, your customer will receive an invo
 **TODO:** Screenshot of the notification email should be updated once we have the new design.
 
 ![Alt text](../img/Screenshot%202022-08-31%20at%201.23.32.png?raw=true "Sakurabook Booking Created")
+
+## Cancellation Handling
+
+When your customers want to cancel their bookings, they need to communicate it with you as a merchant and you need to manage their bookings in the dashboard manually. We currently do not offer a customer-facing interface for booking cancellations.
+
+💡 We are preparing automatic cancellations for future versions of the Sakurabook app.
 
 ---
 
