@@ -12,7 +12,7 @@ This section will help you with the installation of the Sakurabook app into your
 
 📌 **TODO** This will be updated once the app is successfully reviewed and published in the Shopify app store.
 
-1. Go to [Sakurabook page](https://apps.shopify.com/google?surface_detail=recommended-for-you&surface_inter_position=2&surface_intra_position=5&surface_type=home) in the Shopify app store.
+1. Go to [Sakurabook page](https://apps.shopify.com) in the Shopify app store.
 
    ![Alt text](../img/?raw=true "Sakurabook App Store")
 
@@ -79,7 +79,7 @@ The next step is to set up everything in Sakurabook Admin to be able to offer yo
 
    ![Alt text](../img/Screenshot%202022-08-29%20at%2010.40.48.png?raw=true "Sakurabook Add Staff")
 
-7. Please check out the detailed [Create Staff](./create-staff.md) guide, click **Save** in the top right corner. Congratulations. You have created your first staff. Then click on **Dashboard** in the top navigation menu.
+7. Please check out the detailed [Create Staff](./create-staff.md) guide, click `Save` in the top right corner. Congratulations. You have created your first staff. Then click on `Dashboard` in the top navigation menu.
 
    ![Alt text](../img/Screenshot%202022-08-28%20at%2010.56.35.png?raw=true "Sakurabook Edit Staff")
 
@@ -97,7 +97,7 @@ The next step is to set up everything in Sakurabook Admin to be able to offer yo
 
 ## Sakurabook Booking Wizard Setup
 
-Sakurabook app is installed in your Shopify store and you've successfully finished the previous [guide](#sakurabook-booking-wizard-setup). Now let's have a look at how to add the Sakurabook Booking Wizard into your customer-facing storefront, also called Shopify Theme.
+Sakurabook app is installed in your Shopify store and you've successfully finished the previous [guide](#sakurabook-admin-setup). Now let's have a look at how to add the Sakurabook Booking Wizard into your customer-facing storefront, also called Shopify Theme.
 
 📌 There is one prerequisite to be able to add Booking Wizard into your storefront. You need to have an Online Store sales channel installed in your store.
 

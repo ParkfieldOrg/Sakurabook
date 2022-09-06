@@ -6,15 +6,15 @@ Let's have a look into some specific cases for bookings. As you already know, al
 
 There are overall nine variants for each product you are selling with Sakurabook. The names of the variants are self-explanatory.
 
-- WORKING DAY - Price per minute
-- WEEKEND - Price per minute
-- WORKING DAY - Price per hour
-- WEEKEND - Price per hour
-- WORKING DAY - Price per day
-- WEEKEND - Price per day
-- WORKING DAY - Price per week
-- WORKING DAY - Price per month
-- WORKING DAY - Price per year
+- `WORKING DAY - Price per minute`
+- `WEEKEND - Price per minute`
+- `WORKING DAY - Price per hour`
+- `WEEKEND - Price per hour`
+- `WORKING DAY - Price per day`
+- `WEEKEND - Price per day`
+- `WORKING DAY - Price per week`
+- `WORKING DAY - Price per month`
+- `WORKING DAY - Price per year`
 
 We calculate the final price using these price variants. It applies to all products, Rental spaces, Services, and AddOns. There are no additional fees or extras for your customers.
 

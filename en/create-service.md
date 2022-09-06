@@ -21,7 +21,7 @@ This is a view-only calendar overview. It shows only bookings related to one par
 
 ## Assigned add-ons
 
-Another element on this page is the Assigned Add-ons section. By clicking on the `Add Add-ons` button, you can connect Add-ons to the Service. These will be then available for booking together with the Service.
+Another element on this page is the Assigned Add-ons section. By clicking on the `Add AddOns` button, you can connect Add-ons to the Service. These will be then available for booking together with the Service.
 
 ![Alt text](../img/Screenshot%202022-08-30%20at%2014.59.21.png?raw=true "Sakurabook Service AddOns")
 

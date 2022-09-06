@@ -12,7 +12,7 @@ This guide is focused on the booking flow for your customers. There are several 
 
 ## Service reservation
 
-1. After you get to the service product page in the Shopify store, you will see the Sakurabook Booking wizard on the right side. Since it is a **Service reservation** use case, the very first step is to select staff. You should see a profile photo, name, and some bio for each of the staff. You can use the arrows on the right for switching between staff or simply clicking on the profile photos. Click on the `Next` button when the staff is selected.
+1. After you get to the service product page in the Shopify store, you will see the Sakurabook Booking Wizard on the right side. Since it is a **Service reservation** use case, the very first step is to select staff. You should see a profile photo, name, and some bio for each of the staff. You can use the arrows on the right for switching between staff or simply clicking on the profile photos. Click on the `Next` button when the staff is selected.
 
    ![Alt text](../img/Screenshot%202022-09-01%20at%2011.07.16.png?raw=true "Sakurabook Wizard Staff Selection")
 
@@ -58,15 +58,15 @@ This guide is focused on the booking flow for your customers. There are several 
 
 ## Booking states
 
-There are overall three possible states for each booking. It differs according to the step in which the customer ended the process above.
+There are overall four possible states for each booking. It differs according to the step in which the customer ended the process above.
 
-📌 **TODO** fill in the XY values.
+The `PENDING` state of the booking happens when customers leave the booking in their cart. They do not pay for the reservation yet. This is a state where we block the reserved day/time for **1 hour**.
 
-The `PENDING` state of the booking happens when customers leave the booking in their cart. They do not confirm the reservation. This is a state where we block the reserved day/time for XY hours.
+The `ABBANDONED` state of the booking happens when customer leave the booking in their cart. They do not pay for the reservation yet. This is a state where we **do not** block the reserved day/time because it's been more than 1 hour.
 
-The `CONFIRMED` state of the booking happens when customers confirm the order but do not pay yet. This is a state where we block the reserved day/time for XY days.
+The `REJECTED` state happens when the booking is successfully paid, but there is another conflicting booking. The booking is then rejected. If this happens, we send to both merchant and customer a notification email and merchant's support needs to reach to customer to sort out this situation.
 
-The `PAID` state happens when the booking is successfully paid. Here we block the booked day/time ultimately until the merchant makes some changes, e.g. after the customer's communication with the support team.
+The `CONFIRMED` state happens when the booking is successfully paid. Here we block the booked day/time ultimately until the merchant makes some changes, e.g. after the customer's communication with the support team.
 
 ---
 

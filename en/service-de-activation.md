@@ -23,7 +23,7 @@ This is a quick guide to show you how to `Deactivate` and `Activate` back your s
 
 1. Go to the Services section where you can find all your created services. Select the `Inactive` section in the list.
 
-2. Select the services you want to deactivate and click the `Activate` button which is right next to the select all button.
+2. Select the services you want to deactivate and click the `Activate` button which is right next to the `Select all` button.
 
    ![Alt text](../img/Screenshot%202022-08-30%20at%2014.29.27.png?raw=true "Sakurabook Service Deactivation")
 

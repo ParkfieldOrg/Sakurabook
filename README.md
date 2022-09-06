@@ -23,7 +23,7 @@ This guide is for the Shopify merchants who are the main users of the app. Follo
 
 ➡ Start [here](./en/getting-started.md)!
 
-Guide is available in [🇬🇧 English](#welcome-to-sakurabook-project) and [🇯🇵 やまと](#ようこそsakurabook-プロジェクトへ).
+Guide is available in [🇬🇧 English](#img-srcimgapp20iconpng-altdrawing-width50-welcome-to-sakurabook-project) and [🇯🇵 やまと](#img-srcimgapp20iconpng-altdrawing-width50-ようこそsakurabook-プロジェクトへ).
 
 ---
 
@@ -33,13 +33,13 @@ Parkfield が制作した Shopify[Sakurabook](https://sakurabook.jp/)アプリ�
 
 ## 目次
 
-- [はじめに](./ja/getting-started.md)
-- [Shopify でアプリをセットアップする](./ja/setting-up-the-app-in-shopify.md)
-- [使用法ガイド](./ja/usage-guides.md)
-- [リリースノート](./ja/release-notes.md)
-- [リンク集](./ja/links.md)
+- [Getting Started](./ja/getting-started.md)
+- [Shopify にアプリをセットアップする](./ja/setting-up-the-app-in-shopify.md)
+- [使い方ガイド](./ja/usage-guides.md)
+- [Release Notes](./ja/release-notes.md)
+- [Links](./ja/links.md)
 
-さくらブックは、Shopify のエコシステム内で利用できる従量課金制の予約サービス用プラグインです。[Shopify App Store](https://apps.shopify.com/)を通して Shopify ストアにインストールすることができます。日本語に対応した Shopify の予約アプリです。さくらブックは、賃貸マンションやスタジオなどのスペースや、セラピー、美容院、ヨガ教室などのサービスを予約することができ、あなたのビジネスにフィットします。
+Sakurabook は Shopify のエコシステム内で利用できる従量課金制の予約サービス用プラグインです。[Shopify App Store](https://apps.shopify.com/)を通して Shopify ストアにインストールすることができます。日本語に対応した Shopify の予約アプリです。Sakurabook は、賃貸マンションやスタジオなどのスペースや、セラピー、美容院、ヨガ教室などのサービスを予約することができ、あなたのビジネスにフィットすることができます。
 
 📌 アプリの主なメリットは以下の通りです。
 
@@ -54,4 +54,4 @@ Parkfield が制作した Shopify[Sakurabook](https://sakurabook.jp/)アプリ�
 
 ➡ Start [ここから](./ja/getting-started.md)!
 
-ガイドは[🇬🇧 英語](#welcome-to-sakurabook-project)と[🇯🇵 やまと](#ようこそsakurabook-プロジェクトへ) でご用意しています。
+ガイドは[🇬🇧 英語](#img-srcimgapp20iconpng-altdrawing-width50-welcome-to-sakurabook-project)と[🇯🇵 やまと](#img-srcimgapp20iconpng-altdrawing-width50-ようこそsakurabook-プロジェクトへ) でご用意しています。
