@@ -6,7 +6,7 @@
 
 💡 **Troubleshooting**: もし何か問題があれば、私たちの[Support](app.https://sakurabook.app/pages/support)に連絡を取ってください。私たちは可能な限り対応し、本当に助けたいと思います。
 
-## Contents
+## 目次
 
 - [商品とスタッフ](#商品とスタッフ)
 - [ダッシュボードと予約](#ダッシュボードと予約)
@@ -34,7 +34,7 @@
 
 さらに、設定は Google カレンダーや Zoom との連携も管理することができます。Zoom は、**サービス予約**のユースケースでオンラインサービスを提供する場合に特に重要です。[Google カレンダーの接続](./connect-google-calendar.md) と [Zoom を接続する](./connect-zoom.md) のガイドに従って、これらのプラットフォームへの接続を成功させてください。
 
-💡 **Troubleshooting**: 統合は常に厄介なものです。我々はこの問題でサードパーティに依存しており、すべてが期待通りに動作することを常に保証するものではありません。それでも、正しく動作するはずですが、もし接続中に問題が発生したら、[Support](https://app.sakurabook.app/pages/support)までご連絡ください。優先的に対処します。
+💡 **Troubleshooting**: 統合は常に厄介なものです。我々はこの問題でサードパーティに依存しており、すべてが期待通りに動作することを常に保証するものではありません。それでも、正しく動作するはずですが、もし接続中に問題が発生したら、[Support](https://app.sakurabook.app/pages/support)までご連絡ください。優先的に対処します。また、[Using Google Calendar](./using-google-calendar.md)、[Using Zoom](./using-zoom.md)のガイドも用意していますので、これらの素晴らしい統合をどのように活用できるかをご紹介しています。
 
 ## 予約ウィザード
 

@@ -2,6 +2,8 @@
 
 Zoom connection serves for videoconferencing. This is only relevant to the **Service reservation** use case. If you want to offer your staff and services with an online location, you need to connect to your Zoom account. After you do, we will generate Zoom links for every new booking created by your customers. This link is delivered to your staff and customer inside the Google calendar invitation. They are then expected to connect online during the booking time.
 
+📌 We have also prepared two videos guides for you, feel free to watch them on our Youtube [Sakurabook channel](https://www.youtube.com/channel/UCzs8kviSrLufN3ipRIeGc3Q/videos).
+
 Here is a step-by-step guide on how to connect to your Zoom company account.
 
 1. Start at the Settings section inside the Sakurabook app. Click on the `Connect` button next to the Zoom block inside the Integrations subsection.
@@ -22,4 +24,4 @@ Here is a step-by-step guide on how to connect to your Zoom company account.
 
 ---
 
-➡ What's next? Go to the [Booking Wizard](./booking-wizard.md) guide.
+➡ What's next? Go to the [Using Zoom](./using-zoom.md) guide.

@@ -32,7 +32,7 @@ As you already know, the Sakurabook Dashboard serves as the main booking overvie
 
 Ok, we went through the Dashboard, Spaces, Services, and Staff sections of the menu. What's left? It's the settings of the Sakurabook app. This [Settings](./settings.md) guide will help you understand all the items on the settings menu.
 
-Moreover, settings also help you manage your Google Calendar and Zoom integrations. Zoom is particularly important when you offer online services with the **Service reservation** use case. Please follow the [Connect Google Calendar](./connect-google-calendar.md) and [Connect Zoom](./connect-zoom.md) guides to successfully connect to these platforms.
+Moreover, settings also help you manage your Google Calendar and Zoom integrations. Zoom is particularly important when you offer online services with the **Service reservation** use case. Please follow the [Connect Google Calendar](./connect-google-calendar.md) and [Connect Zoom](./connect-zoom.md) guides to successfully connect to these platforms. Furthemore, we prepared the [Using Google Calendar](./using-google-calendar.md) and [Using Zoom](./using-zoom.md) guides to show you how you can benefit from these great integrations.
 
 💡 **Troubleshooting**: Integrations are always tricky. We rely on a 3rd party in this matter and we cannot always guarantee that everything works as expected. Nevertheless, it should work correctly but if you run into an issue during connections, please get to [Support](https://app.sakurabook.app/pages/support) and we'll take care of it with priority.
 

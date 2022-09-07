@@ -28,4 +28,4 @@ Here is a quick guide on how to connect to Google Calendar from the Sakurabook a
 
 ---
 
-➡ What's next? Go to the [Connect Zoom](./connect-zoom.md) guide.
+➡ What's next? Go to the [Using Google Calendar](./using-google-calendar.md) guide.
