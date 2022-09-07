@@ -7,12 +7,13 @@ After you successfully [Connect Zoom](./connect-zoom.md) integration, you are el
 ## Contents
 
 - [Staff Videoconferencing](#staff-videoconferencing)
+- [Online Zoom Booking](#online-zoom-booking)
 - [Manual Booking from Dashboard](#manual-booking-from-dashboard)
 - [Booking Wizard](#booking-wizard)
 
 ## Staff Videoconferencing
 
-In the [Create Staff](./create-staff.md#videoconferencing) guide, we describe that you need to have the Zoom connection ready in order to offer online Zoom conferencing to your customers. Here you can see what it looks like when Zoom is correctly connected and when it isn't.
+In the [Create Staff](./create-staff.md#videoconferencing) guide, we describe that you need to have the Zoom connection ready to offer online Zoom conferencing to your customers. Here you can see what it looks like when Zoom is correctly connected and when it isn't.
 
 ![Alt text](../img/Screenshot%202022-09-07%20at%2010.29.05.png?raw=true "Sakurabook Videoconferencing Zoom Connected")
 

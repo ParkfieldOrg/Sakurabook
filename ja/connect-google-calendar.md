@@ -28,4 +28,4 @@ Google カレンダーとの接続は、予約に関する Google カレンダ�
 
 ---
 
-➡ 次はどうする？[Zoom を接続する](./connect-zoom.md)のガイドへ移動します。
+➡ 次はどうする？[Google カレンダーの活用](./using-google-calendar.md)のガイドへ移動します。

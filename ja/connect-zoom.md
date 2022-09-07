@@ -22,4 +22,4 @@ Zoom 接続は、ビデオ会議のために機能します。これは、**サ�
 
 ---
 
-➡ 次はどうする？[Booking Wizard](./booking-wizard.md)のガイドに進みます。
+➡ 次はどうする？[Zoom を使用する](./using-zoom.md)のガイドに進みます。
