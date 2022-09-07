@@ -57,7 +57,9 @@ For both cases, it is necessary to select an online Zoom location during creatio
 
 8. The last step is to go back to the Sakurabook dashboard, open the detail of the recently created booking and check that both the `Zoom staff link` and `Zoom customer link` are present. The `Zoom staff link` is the online event start url, and the latter is the online event join url. Make sure that your staff has the `Zoom staff link` ready.
 
-📌 These links get updated whenever you change the booking details on the customer's behalf. Same for booking deletion.
+   📌 These links get updated whenever you change the booking details on the customer's behalf. Same for booking deletion.
+
+   ![Alt text](../img/Screenshot%202022-09-07%20at%2012.18.28.png?raw=true "Sakurabook Booking Detail Zoom")
 
 9. There is actually one more detail. If you have also your [Google Calendar](./connect-google-calendar.md) connected, you can see the `Zoom customer link` also in the location of the Google calendar event.
 
