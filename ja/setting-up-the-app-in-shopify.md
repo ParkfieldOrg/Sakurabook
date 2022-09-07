@@ -24,7 +24,7 @@
 
 5. **Welcome to Sakurabook app!**の画面が表示されるはずです。これは、オンボーディングガイドの最初の画面です。
 
-   ![Alt text](../img/?raw=true "Welcome to Sakurabook app!")
+   ![Alt text](../img/Screenshot%202022-09-07%20at%2021.39.44.png?raw=true "Welcome to Sakurabook app!")
 
 💡 **Troubleshooting**: 何か問題が発生した場合は、私たちの[Support](https://app.sakurabook.app/pages/support)に連絡してください。私たちは可能な限り対応し、お手伝いします。
 
@@ -57,7 +57,7 @@
    - テーマとアプリを接続する
    - `Finish`ボタンをクリック
 
-   ![Alt text](../img/?raw=true "Sakurabook Onboarding Finish")
+     ![Alt text](../img/Screenshot%202022-09-07%20at%2021.37.00.png?raw=true "Sakurabook Onboarding Finish")
 
 4. 使用用途の選択画面が表示されました。**レンタルスペース予約**と**サービス予約**のいずれかを選択できます。あなたのビジネスに合った、賢い選択をしてください。これは将来的に変更することはできません。正しいユースケースを選択したら、`Import`ボタンをクリックします。
 
@@ -93,7 +93,7 @@
 
     📌 各課金プランには、月/年に作成できる有料ブッキングの数が制限されています。例えば、**スタンダードプラン**の月額課金制は、**19.90 ドル**で、**6.000**件の有料予約を作成することができます。さらに、初回登録時には、**14 日間**の無料トライアルが提供されます。さくらブックがあなたにぴったりのアプリかどうか、すべてを試してみてください。
 
-    ![Alt text](../img/?raw=true "Sakurabook Billing")
+    ![Alt text](../img/Screenshot%202022-09-07%20at%2021.42.47.png?raw=true "Sakurabook Billing")
 
 ## Sakurabook Booking Wizard セットアップ
 

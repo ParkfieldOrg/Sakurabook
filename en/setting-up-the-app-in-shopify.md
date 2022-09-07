@@ -24,7 +24,7 @@ This section will help you with the installation of the Sakurabook app into your
 
 5. You should find yourself on the **Welcome to Sakurabook app!** screen. This is the first screen of our onboarding guide.
 
-   ![Alt text](../img/?raw=true "Welcome to Sakurabook app!")
+   ![Alt text](../img/Screenshot%202022-09-07%20at%2021.39.44.png?raw=true "Welcome to Sakurabook app!")
 
 💡 **Troubleshooting**: If anything goes wrong, get in touch with our [Support](https://app.sakurabook.app/pages/support), please. We are as available as possible and really keen to help.
 
@@ -57,7 +57,7 @@ The next step is to set up everything in Sakurabook Admin to be able to offer yo
    - Connect app to theme
    - Click the `Finish` button
 
-   ![Alt text](../img/?raw=true "Sakurabook Onboarding Finish")
+     ![Alt text](../img/Screenshot%202022-09-07%20at%2021.37.00.png?raw=true "Sakurabook Onboarding Finish")
 
 4. Now you appeared on the Use case selection screen. You can select either **Rental space reservation** or **Service reservation**. Make a wise choice, it has to suit your business. This cannot be changed in the future. After you select the right use case, click on the `Import` button.
 
@@ -93,7 +93,7 @@ The next step is to set up everything in Sakurabook Admin to be able to offer yo
 
     📌 Each of the billing plans is limited by the number of paid bookings you can create per month/year. For example, the **Standard plan** with a monthly subscription is only for **$19.90** and you can create **6.000** paid bookings. Moreover, when you subscribe for the first time, you'll get a **14-day** free trial. You can test everything and decide if Sakurabook is the right app for you.
 
-    ![Alt text](../img/?raw=true "Sakurabook Billing")
+    ![Alt text](../img/Screenshot%202022-09-07%20at%2021.42.47.png?raw=true "Sakurabook Billing")
 
 ## Sakurabook Booking Wizard Setup
 
