@@ -101,7 +101,7 @@ Shopify ストアに Sakurabook アプリがインストールされ、前回の
 
 📌 ストアフロントにブッキングウィザードを追加できるようにするには、前提条件が 1 つあります。オンラインストアの販売チャンネルがあなたのストアにインストールされている必要があります。
 
-📌 現在、以下のテーマをサポートしています。[Dawn](https://themes.shopify.com/themes/dawn/styles/default), [Sense](https://themes.shopify.com/themes/sense/styles/default), [Colorblock](https://themes.shopify.com/themes/colorblock/styles/default), [Refresh](https://themes.shopify.com/themes/refresh/styles/default), [Studio](https://themes.shopify.com/themes/studio/styles/default) と [Craft](https://themes.shopify.com/themes/craft/styles/default). 予約ウィザードは他の多くのテーマでも動作するはずですが、すべてのテーマがテストされたわけではないので、ここではすべてをリストアップしていません。いくつかのスタイルは、例えば、メインカラーやフォントなど、テーマ自体から継承されています。
+📌 現在、以下のテーマをサポートしています。[Dawn](https://themes.shopify.com/themes/dawn/styles/default), [Craft](https://themes.shopify.com/themes/craft/styles/default), [Refresh](https://themes.shopify.com/themes/refresh/styles/default), [Studio](https://themes.shopify.com/themes/studio/styles/default) and [Sense](https://themes.shopify.com/themes/sense/styles/default). Booking Wizard は、他の多くのテーマでも動作するはずですが、すべてのテーマがテストされたわけではないので、ここではすべてをリストアップしていません。いくつかのスタイルは、例えばメインカラーやフォントなど、テーマ自体から継承されています。
 
 📌 Sakurabook チームは、このアプリのために新しいテーマを提供する予定です。両方のユースケースに対応したものになる予定です。
 
@@ -116,6 +116,8 @@ Shopify ストアに Sakurabook アプリがインストールされ、前回の
    ![Alt text](../img/Screenshot%202022-08-28%20at%2010.37.12.png?raw=true "Shopify Theme Products")
 
 3. 左のメインメニューに、ページセクションが表示されているはずです。**Product information**セクションをドロップダウンし、`Add block`ボタンをクリックします。新しいウィンドウがポップアップし、THEME BLOCKS と APPS の 2 つのリストが表示されます。APPS リストの下に、**Sakurabook**アプリの**Booking Wizard**が表示されているはずです。これをクリックすると、テーマに追加されます。カスタマイズツールでも、アプリが勝手に読み込まれるはずです。これですべての設定は完了です。画面左上の 3 つの点のメニューをクリックし、**View**でお客様向けの店頭で確認してください。
+
+   📌 メインボタンの色を変更したい場合は、テーマエディタ-テーマ設定（左サイドバーの一番下）-色-アクセント 2 で変更することができます。
 
    ![Alt text](../img/Screenshot%202022-08-28%20at%2010.37.30.png?raw=true "Shopify Theme Sakurabook App Block")
 

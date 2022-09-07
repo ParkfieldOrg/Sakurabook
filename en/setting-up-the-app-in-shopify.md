@@ -117,9 +117,9 @@ Sakurabook app is installed in your Shopify store and you've successfully finish
 
 3. In the left main menu, you should now see the page sections. Drop down the **Product information** section and clock on the `Add block` button. A new window pops up and it contains two lists, THEME BLOCKS, and APPS. Under the APPS list, you should see **Booking Wizard** from the **Sakurabook** app. Click on it and it will be added to your theme. The app should load itself even in the customization tool. All is now set. Click on the three dots menu in the top left corner of the screen and go to **View** to check it out in your customer-facing storefront.
 
-   ![Alt text](../img/Screenshot%202022-08-28%20at%2010.37.30.png?raw=true "Shopify Theme Sakurabook App Block")
+   📌 If you want to change main button color, you can do so in the Theme editor - Theme settings (at the bottom of the left sidebar) - Colors - Accent 2.
 
-If you want to change main button color, you can do so in the Theme editor - Theme settings (at the bottom of the left sidebar) - Colors - Accent 2.
+   ![Alt text](../img/Screenshot%202022-08-28%20at%2010.37.30.png?raw=true "Shopify Theme Sakurabook App Block")
 
 ---
 
