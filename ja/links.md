@@ -1,4 +1,4 @@
-# リンク
+# リンク集
 
 お問い合わせメール [info@sakurabook.jp](info@sakurabook.jp)
 

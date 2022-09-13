@@ -27,31 +27,29 @@ Guide is available in [🇬🇧 English](#img-srcimgapp20iconpng-altdrawing-widt
 
 ---
 
-# <img src="./img/App%20icon.png" alt="drawing" width="50"/> ようこそ、Sakurabook プロジェクト」へ。
+# <img src="./img/App%20icon.png" alt="drawing" width="50"/> Sakurabook プロジェクトへようこそ！
 
-Parkfield が制作した Shopify[Sakurabook](https://sakurabook.jp/)アプリのドキュメントとガイドです。
+Shopify アプリ[Sakurabook](https://sakurabook.jp/)のドキュメント（説明資料）とご利用ガイドです。
 
 ## 目次
 
-- [Getting Started](./ja/getting-started.md)
-- [Shopify にアプリをセットアップする](./ja/setting-up-the-app-in-shopify.md)
-- [使い方ガイド](./ja/usage-guides.md)
-- [Release Notes](./ja/release-notes.md)
-- [Links](./ja/links.md)
+- [スタートアップガイド](./ja/getting-started.md)
+- [アプリのセットアップについて](./ja/setting-up-the-app-in-shopify.md)
+- [アプリの使い方ガイド](./ja/usage-guides.md)
+- [リリースノート](./ja/release-notes.md)
+- [リンク集](./ja/links.md)
 
-Sakurabook は Shopify のエコシステム内で利用できる従量課金制の予約サービス用プラグインです。[Shopify App Store](https://apps.shopify.com/)を通して Shopify ストアにインストールすることができます。日本語に対応した Shopify の予約アプリです。Sakurabook は、賃貸マンションやスタジオなどのスペースや、セラピー、美容院、ヨガ教室などのサービスを予約することができ、あなたのビジネスにフィットすることができます。
+Sakurabook は、日本語にも対応している Shopify 予約アプリです。[Shopify アプリストア](https://apps.shopify.com/)を通して、運営している Shopify ストアにアプリをインストールして活用します。Shopify テーマ内に簡単に設置可能な予約カレンダーから、固定金額型・従量課金型、訪問サービス・オンラインサービスなど、さまざまな予約サービスを簡単に予約することが可能です。例えば、賃貸マンションやスタジオなどのスペースや、セラピー、美容院、ヨガ教室など、スタッフや専門家によるサービスを予約することができます。Sakurabook を活用すれば、運営しているネットショップに予約サービスの受付機能を追加でき、ビジネスの幅を広げられます。
 
 📌 アプリの主なメリットは以下の通りです。
 
-- **柔軟な予約の長さ**。分単位での正確な予約を可能にします。
-- **日本語でのスペースまたはサービスの予約**。スペースやサービスの予約プラグインは、日本語で利用可能です。
-- **Zoom で顧客とオンラインミーティング**。オンラインでビジネスを盛り上げましょう。
-- **Google カレンダーで予約状況を確認**: 接続された Google カレンダーで予約を確認することができます。
+- 管理サイト、予約サイトともに日本語で利用することが可能です。
+- 5 分単位で自由に予約時間を選べるなど、柔軟に予約時間を調整できます。
+- Zoom での有料オンラインミーティングの予約・決済を受け付けられます。
+- Google カレンダーと接続。Google カレンダーでも Sakurabook の予約を確認できます。
 
-このガイドは、アプリのメインユーザーである Shopify マーチャントのためのものです。このガイドに従って、Sakurabook アプリの適切なインストールとセットアップを行ってください。
-
-このガイドは、アプリのメインユーザーである Shopify 加盟店様向けです。さくらブックアプリのインストールや設定に困ったときに役立つと思います。
+このガイドは、アプリのメインユーザーである Shopify マーチャントのためのものです。Sakurabook のインストールや設定に困ったときには、このガイドをお役立てください。
 
 ➡ Start [ここから](./ja/getting-started.md)!
 
-ガイドは[🇬🇧 英語](#img-srcimgapp20iconpng-altdrawing-width50-welcome-to-sakurabook-project)と[🇯🇵 やまと](#img-srcimgapp20iconpng-altdrawing-width50-ようこそsakurabook-プロジェクトへ) でご用意しています。
+ガイドは[🇬🇧 英語](#img-srcimgapp20iconpng-altdrawing-width50-welcome-to-sakurabook-project)と[🇯🇵 やまと](#img-srcimgapp20iconpng-altdrawing-width50-sakurabook-プロジェクトへようこそ) をご用意しています。
