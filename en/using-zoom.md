@@ -25,6 +25,8 @@ There are two ways of creating an online Zoom booking. The first one is to creat
 
 For both cases, it is necessary to select an online Zoom location during creation.
 
+💡 Do you want to schedule online Zoom meetings on behalf of your staff? Make sure that you set up the scheduling privilege to the account you connected Zoom and Sakurabook with. See [Scheduling priviledge](https://support.zoom.us/hc/en-us/articles/201362803-Scheduling-privilege) in the official Zoom documentation. For example, when your staff has email staff@your-org.com and you connected Zoom to Sakurabook with admin@your-org.com, make sure that staff@your-org.com gave scheduling privilege to admin@your-org.com otherwise the Zoom meeting won't be created.
+
 ## Manual Booking from Dashboard
 
 ❗️ This manual is for merchants and their staff who has access to Sakurabook Admin inside the Shopify Admin console. Customers cannot create bookings this way.

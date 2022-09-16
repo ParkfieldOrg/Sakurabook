@@ -25,6 +25,8 @@ Zoom によるオンラインサービスの予約を作成する方法は 2 つ
 
 どちらの場合も、作成時にロケーションは Zoom を選択する必要があります。
 
+💡 Zoom のオンラインミーティングを代理でスケジュールしたいですか？Zoom とさくら本を接続したアカウントに、スケジュール権限を設定してください。Zoom の公式ドキュメントの[Scheduling priviledge](https://support.zoom.us/hc/en-us/articles/201362803-Scheduling-privilege)を参照してください。例えば、スタッフのメールアドレスが staff@your-org.com で、Zoom と Sakurabook を admin@your-org.com で接続した場合、staff@your-org.com が admin@your-org.com にスケジュール権限を与えていないと、Zoom ミーティングが作成されませんので、ご確認ください。
+
 ## ダッシュボードからの手動予約
 
 ❗️ このマニュアルは、Shopify 管理サイトのコンソール内で Sakurabook 管理にアクセスできるマーチャントとそのスタッフ向けのものです。お客様はこの方法で予約を作成することはできません。
