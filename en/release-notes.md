@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.0.6] - 2022-09-27
+
+- Fix Shopify install/uninstall and session storage
+- Fix Shopify webhook registration after app reinstall
+- Fix blocked 3rd party cookies
+- Add dynamic email template ids
+- Improve Shopify error logs
+- Improve availability by taking into account `inAdvancePeriodMinutes` and `timeNeededBeforeBookingInMinutes`
+- Imporve booking wizard min
+- Update dependencies for sakurabook-admin
+
+## [1.0.5] - 2022-09-16
+
+- Meaningful Zoom event topic
+- Zoom scheduling priviledge and schedule_for settings
+
+## [1.0.4] - 2022-09-15
+
+- SA-889 - Zoom full de-authorization
+- SA-845 - Backend doesn't reflect currency change (and contact email change)
+- SA-533 - Strange start/end date labels in bookings create
+- SA-530 - Products/staff should be clickable from dashboard calendar
+- Update EN/JP translations
+- Update booking wizard dependencies
+- Fix pointer when hover on resource label in calendar
+- Trigger dependent validation (time selector)
+
 ## [1.0.3] - 2022-09-13
 
 - SA-783 - Horizontal scrolloing at the dashboard
