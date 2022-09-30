@@ -8,7 +8,7 @@ Here is a step-by-step guide on how to connect to your Zoom company account.
 
 1. Start at the Settings section inside the Sakurabook app. Click on the `Connect` button next to the Zoom block inside the Integrations subsection.
 
-   ![Alt text](../img/Screenshot%202022-08-31%20at%2016.01.55.png?raw=true "Sakurabook Zoom Connect")
+   ![Alt text](../img/Screenshot%202022-09-30%20at%2013.01.14.png?raw=true "Sakurabook Zoom Connect")
 
 2. Sign in to the Zoom account for this Sakurabook app connection. Usually, you will go with your working Zoom account.
 
@@ -20,7 +20,7 @@ Here is a step-by-step guide on how to connect to your Zoom company account.
 
 4. Go back to the Settings section. You can notice that the `Connect` button changed and now it gives you an option to `Disconnect` from Zoom whenever you want. Click on the button when you want to be disconnected. Be aware that it'll also disable Zoom videoconferencing for your staff.
 
-   ![Alt text](../img/Screenshot%202022-08-31%20at%2016.15.10.png?raw=true "Sakurabook Zoom Disconnect")
+   ![Alt text](../img/Screenshot%202022-09-30%20at%2013.01.44.png?raw=true "Sakurabook Zoom Disconnect")
 
 ---
 

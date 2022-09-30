@@ -6,7 +6,7 @@ Zoom との接続は、ビデオ会議を使用してサービス予約を受付
 
 1. Sakurabook アプリの「`設定`」からスタートします。統合のサブセクションにある Zoom ブロックの横にある「`接続`」ボタンをクリックします。
 
-   ![Alt text](../img/Screenshot%202022-08-31%20at%2016.01.55.png?raw=true "Sakurabook Zoom Connect")
+   ![Alt text](../img/Screenshot%202022-09-30%20at%2013.02.37.png?raw=true "Sakurabook Zoom Connect")
 
 2. Sakurabook アプリに接続したい Zoom アカウントにサインインしてください。
 
@@ -18,7 +18,7 @@ Zoom との接続は、ビデオ会議を使用してサービス予約を受付
 
 4. 設定セクションに戻ります。「`接続`」ボタンが変更され、「`切断`」ボタンに変わります。接続を解除したい場合は、「`切断`」ボタンをクリックします。なお、この操作を行うと、スタッフの Zoom ビデオ会議も無効になります。
 
-   ![Alt text](../img/Screenshot%202022-08-31%20at%2016.15.10.png?raw=true "Sakurabook Zoom Disconnect")
+   ![Alt text](../img/Screenshot%202022-09-30%20at%2013.02.48.png?raw=true "Sakurabook Zoom Disconnect")
 
 ---
 
